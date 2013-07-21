@@ -1,6 +1,6 @@
 /*
   MIDI Control Surface
-  by Sami Halimi
+  by NomadicLocust
   
   A MIDI controller with 37 inputs (20 rotary potentiometers + 17 pushbuttons)
   4 channels + master
